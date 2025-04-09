@@ -1,0 +1,13 @@
+mediapipe
+opencv-python
+openai-whisper
+torch
+numpy
+ffmpeg-python
+scipy
+joblib
+pysoundfile
+pyttsx3
+simpleaudio
+elevenlabs==1.6.0
+pydub ffmpeg-python
